@@ -1,4 +1,4 @@
-﻿Year,Player,Match Up,Game Date,Pts,Win Loss,Min,Points,FGM,FGA,FG%,3PT,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,STL,BLK,TOV,PF,PlusMinus,Fantasy
+﻿Year,Player,not_Match_Up,MIN,PTS,not_WL,not_MIN,FG%,not_FGM,not_FGA,not_FG%,not_3PT,not_3PA,not_3P%,not_FTM,not_FTA,REB,AST,not_DREB,not_REB,not_AST,not_STL,BLK,TOV,PF,PlusMinus,Fantasy
 2011,Kevin Durant,78,38.9,27.7,9.1,19.7,46.2,1.9,5.3,35,7.6,8.7,88,0.7,6.1,6.8,2.7,1.1,1,2.8,24.9,,,,,
 2011,LeBron James,79,38.8,26.7,9.6,18.8,51,1.2,3.5,33,6.4,8.4,75.9,1,6.5,7.5,7,1.6,0.6,3.6,28.6,,,,,
 2011,Carmelo Anthony,77,35.7,25.6,8.9,19.5,45.5,1.2,3.3,37.8,6.6,7.9,83.8,1.5,5.8,7.3,2.9,0.9,0.6,2.7,22.7,,,,,
